@@ -36,7 +36,6 @@ export default class extends React.Component {
   }
 
   renderBody() {
-    console.log(this.state.blogpost.data.author.data)
     return (
       <React.Fragment>
         <div className="l-wrapper">

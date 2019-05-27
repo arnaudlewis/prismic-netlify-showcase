@@ -1,0 +1,1 @@
+/development/workspace/prismic-toolbar/build/prismic.js
